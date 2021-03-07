@@ -1,0 +1,42 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	background-color: black;
+}
+
+h1, h2 {
+	color: white;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+a.download {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+p, figcaption {
+	font-size: 21px;
+	color: grey;
+}
+
+figcaption {
+	margin-bottom: 0.5em;
+}
+
+footer .trademark {
+	text-align: right;
+}
+
+footer .trademark:hover {
+	color: white;
+	cursor: pointer;
+}
